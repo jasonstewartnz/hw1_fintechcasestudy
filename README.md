@@ -6,5 +6,7 @@ FinTech Bootcamp homework one - Betterment
 
 * I think they have a bright future
 
+The founder said:
 
+> What a great company I built!
 
